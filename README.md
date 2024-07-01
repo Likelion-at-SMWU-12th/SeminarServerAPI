@@ -9,6 +9,7 @@
 ```
 source myvenv/bin/activate
 pip install django
+pip install djangorestframework
 ```
 
 가상환경 만들어 놓음 -> 맥, 윈도우 노트북 관계 없이 동일한 코드 입력
